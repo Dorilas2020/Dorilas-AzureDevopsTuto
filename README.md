@@ -1,2 +1,2 @@
 # Dorilas-AzureDevopsTuto
-CICD
+Tutoriel sur le CI/CD avec azure DevOps

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJET\\TPCI\\Dorilas-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj": {}
+    "D:\\PROJET\\TPCI\\Zeno-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj": {}
   },
   "projects": {
-    "D:\\PROJET\\TPCI\\Dorilas-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj": {
+    "D:\\PROJET\\TPCI\\Zeno-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJET\\TPCI\\Dorilas-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj",
+        "projectUniqueName": "D:\\PROJET\\TPCI\\Zeno-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj",
         "projectName": "AzureDevopsTuto",
-        "projectPath": "D:\\PROJET\\TPCI\\Dorilas-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj",
+        "projectPath": "D:\\PROJET\\TPCI\\Zeno-AzureDevopsTuto\\AzureDevopsTuto\\AzureDevopsTuto.csproj",
         "packagesPath": "C:\\Users\\Ulrich DOUVI\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJET\\TPCI\\Dorilas-AzureDevopsTuto\\AzureDevopsTuto\\obj\\",
+        "outputPath": "D:\\PROJET\\TPCI\\Zeno-AzureDevopsTuto\\AzureDevopsTuto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ulrich DOUVI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
